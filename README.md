@@ -2,7 +2,7 @@
 
 **Description:**
 Welcome to my Data Analysis Portfolio! This repository serves as a showcase of my projects 
-and analyses in the field of data analysis. Here, you will find a collection of colab Notebooks 
+and analysis in the field of data analysis. Here, you will find a collection of colab Notebooks 
 and Python scripts demonstrating my skills in data cleaning, exploration, visualization, and modeling.
 
 **Exploratory Data Analysis of COVID-19 Data:**
